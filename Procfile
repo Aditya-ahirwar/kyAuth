@@ -1,1 +1,1 @@
-web: gunicorn ky.wsgi
+web: gunicorn kyassignment1.wsgi
